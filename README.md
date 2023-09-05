@@ -13,7 +13,7 @@ This is a simple web application that allows you to generate QR codes for URLs. 
 
 ## Demo
 
-![QR Code Generator](https://genuine-sprite-a9423d.netlify.app/)
+[QR Code Generator](https://app-qrcode-generator.netlify.app/)
 
 <img src="img/screen.png">
 
