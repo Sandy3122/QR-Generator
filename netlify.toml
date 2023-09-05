@@ -1,8 +1,8 @@
 # example netlify.toml
 [build]
-  command = "qrcode"
+  command = "npm start"
   functions = "netlify/functions"
-  publish = ""
+  publish = "/server.js"
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
