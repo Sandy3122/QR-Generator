@@ -13,9 +13,9 @@ This is a simple web application that allows you to generate QR codes for URLs. 
 
 ## Demo
 
-![QR Code Generator]()
+[QR Code Generator](https://qr-generator-neon.vercel.app/)
 
-<img src="/public/img/screen.png">
+<img src="public/img/screen.png">
 
 ## Features
 
