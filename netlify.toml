@@ -2,13 +2,13 @@
 [build]
   command = "npm start"
   functions = "netlify/functions"
-  publish = "/server.js"
+  publish = "./"
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
   #[[redirects]]
   #  from = "/*"
-  #  to = "/server.js"
+  #  to = "/index.html"
   #  status = 200
 
   ## (optional) Settings for Netlify Dev
