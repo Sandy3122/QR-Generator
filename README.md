@@ -15,7 +15,7 @@ This is a simple web application that allows you to generate QR codes for URLs. 
 
 [QR Code Generator](https://app-qrcode-generator.netlify.app/)
 
-[Website Image](img/screen.png)
+![Website Image](img/screen.png)
 <img src="img/screen.png" alt="Website Image">
 
 ## Features
